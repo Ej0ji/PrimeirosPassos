@@ -1,6 +1,4 @@
 # Projeto Meu Primeiro Repositório
 
----
-
-Pensando até o momento...
+Pensando, até o momento...
  
